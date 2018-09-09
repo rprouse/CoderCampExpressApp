@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CoderCampExpressApp", "CoderCampExpressApp\CoderCampExpressApp.njsproj", "{1AE1F6C8-2E81-4FF4-A4A6-B65211642719}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CoderCampExpressApp", "CoderCampExpressApp\CoderCampExpressApp.njsproj", "{EFAB926B-35EE-443E-A62A-F01A5B8F2D96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1AE1F6C8-2E81-4FF4-A4A6-B65211642719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1AE1F6C8-2E81-4FF4-A4A6-B65211642719}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1AE1F6C8-2E81-4FF4-A4A6-B65211642719}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1AE1F6C8-2E81-4FF4-A4A6-B65211642719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAB926B-35EE-443E-A62A-F01A5B8F2D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAB926B-35EE-443E-A62A-F01A5B8F2D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAB926B-35EE-443E-A62A-F01A5B8F2D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAB926B-35EE-443E-A62A-F01A5B8F2D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {36A8DE98-CBB8-4CDA-A1DD-460143C96E85}
+		SolutionGuid = {6AC87392-AE99-475B-83AE-499ED76A36A9}
 	EndGlobalSection
 EndGlobal

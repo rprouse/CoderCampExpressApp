@@ -6,12 +6,13 @@
     <Name>CoderCampExpressApp</Name>
     <RootNamespace>CoderCampExpressApp</RootNamespace>
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
+    <NameOfLastUsedPublishProfile>CoderCampExpressApp - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>1ae1f6c8-2e81-4ff4-a4a6-b65211642719</ProjectGuid>
+    <ProjectGuid>efab926b-35ee-443e-a62a-f01a5b8f2d96</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>app.js</StartupFile>
     <SearchPath>
@@ -37,6 +38,7 @@
     <TypeScriptCompile Include="app.ts" />
     <TypeScriptCompile Include="routes\index.ts" />
     <TypeScriptCompile Include="routes\user.ts" />
+    <None Include="CoderCampExpressApp - Web Deploy.pubxml" />
     <Content Include="tsconfig.json" />
     <Content Include="package.json" />
     <Content Include="public\stylesheets\main.css" />
@@ -44,6 +46,8 @@
     <Content Include="views\index.pug" />
     <Content Include="views\layout.pug" />
     <Content Include="views\error.pug" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
